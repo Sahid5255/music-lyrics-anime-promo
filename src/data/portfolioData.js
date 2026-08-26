@@ -24,6 +24,11 @@ import cover15 from "../assets/cover15.png";
 import cover16 from "../assets/cover16.jpeg";
 import cover17 from "../assets/cover17.jpeg";
 import cover18 from "../assets/cover18.jpeg";
+import cover20 from "../assets/cover20.jpeg";
+import cover21 from "../assets/cover21.jpeg";
+import cover22 from "../assets/cover22.jpeg";
+import cover23 from "../assets/cover23.jpeg";
+import cover25 from "../assets/cover25.jpeg";
 
 
 // ============================================================
@@ -130,74 +135,82 @@ export const coverArts = [
 
   {
     id: 11,
-    title: "Your Project 11",
-    artist: "Your Artist",
+    artist: "Artist Eleven",
     category: "Cover Art",
     image: cover10,
   },
 
   {
     id: 12,
-    title: "Your Project 12",
-    artist: "Your Artist",
     category: "Cover Art",
     image: cover11,
   },
 
   {
     id: 13,
-    title: "Your Project 13",
-    artist: "Your Artist",
     category: "Cover Art",
     image: cover12,
   },
 
   {
     id: 14,
-    title: "Your Project 14",
-    artist: "Your Artist",
     category: "Cover Art",
     image: cover13,
   },
 
   {
     id: 15,
-    title: "Your Project 15",
-    artist: "Your Artist",
     category: "Cover Art",
     image: cover14,
   },
 
   {
     id: 16,
-    title: "Your Project 16",
-    artist: "Your Artist",
     category: "Cover Art",
     image: cover15,
   },
 
   {
     id: 17,
-    title: "Your Project 17",
-    artist: "Your Artist",
     category: "Cover Art",
     image: cover16,
   },
 
   {
     id: 18,
-    title: "Your Project 18",
-    artist: "Your Artist",
     category: "Cover Art",
     image: cover17,
   },
 
   {
     id: 19,
-    title: "Your Project 19",
-    artist: "Your Artist",
     category: "Cover Art",
     image: cover18,
+  },
+   {
+    id: 20,
+    category: "Cover Art",
+    image: cover20,
+  },
+   {
+    id: 21,
+    category: "Cover Art",
+    image: cover21,
+  },
+   {
+    id: 22,
+    category: "Cover Art",
+    image: cover22,
+  },
+   {
+    id: 23,
+    category: "Cover Art",
+    image: cover23,
+  },
+   {
+    id: 25,
+    category: "Cover Art",
+    image: cover25,
   },
 ];
 
