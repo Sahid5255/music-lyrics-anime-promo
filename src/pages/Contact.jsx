@@ -1,10 +1,4 @@
-import {
-  ArrowRight,
-  Clock,
-  Mail,
-  MessageCircle,
-  Send,
-} from "lucide-react";
+import {ArrowRight, Clock, Mail, MessageCircle, Send,} from "lucide-react";
 
 export default function Contact() {
   // =========================
@@ -402,7 +396,7 @@ export default function Contact() {
                   WHATSAPP
               ========================== */}
               <a
-                href="https://wa.me/234XXXXXXXXXX"
+                href="https://wa.me/14356917469"
                 target="_blank"
                 rel="noreferrer"
                 className="mt-4 flex items-start gap-4 rounded-2xl border border-white/10 p-4 transition hover:border-purple-500/50 hover:bg-white/[0.04]"
@@ -539,7 +533,7 @@ export default function Contact() {
           </p>
 
           <a
-            href="https://wa.me/234XXXXXXXXXX"
+            href="https://wa.me/14356917469"
             target="_blank"
             rel="noreferrer"
             className="mt-8 inline-flex items-center gap-3 rounded-full bg-white px-6 py-3 text-sm font-semibold text-black transition hover:bg-purple-500 hover:text-white sm:px-7 sm:text-base"
